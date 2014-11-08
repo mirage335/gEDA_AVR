@@ -7,9 +7,14 @@ __Usage__
 
 __Design__
 
-Layout is important. Digital circuits create a multitude of full-swing square waves at radio frequency. Stray coupling of these transients into analog circuits is can introduce both low and high frequency noise through a variety of mechanisms.
+Layout is important. Digital circuits create a multitude of full-swing square waves at radio frequency. Stray coupling of these transients into analog circuits can introduce both low and high frequency noise through a variety of mechanisms.
 
 USA companies provide all parts in these schematics.
+
+__Extras__
+Any isolated USB charger can be used as a power source. For example, consider http://www.amazon.com/Samsung-Power-Adapter-Detachable-Micro/dp/B0089VO7FQ/ref=sr_1_6?s=wireless&ie=UTF8&qid=1415386782&sr=1-6&keywords=usb+power .
+
+Typical 1/16" PCBs will not be thick enough to ensure reliable USB port contact. Consider adding a few layers of electrical or duct tape to the back side.
 
 __Safety__
 

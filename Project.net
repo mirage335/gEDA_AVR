@@ -1,25 +1,21 @@
-unnamed_net23	R12-1 D1-2 
-unnamed_net22	R7-2 R8-1 C8-2 U6-3 
-unnamed_net21	U5-5 U6-7 U6-6 
-unnamed_net20	U6-2 U6-1 R13-1 
-unnamed_net19	BNC1-2 R10-1 C10-2 R13-2 
-unnamed_net18	Z1-1 R10-2 C9-2 U6-5 R9-2 R11-1 
-unnamed_net17	BNC1-1 R11-2 
-unnamed_net16	CONN1-3 U4-2 R1-1 
-unnamed_net15	CONN1-2 U3-2 R2-1 
-unnamed_net14	R9-1 U1-41 
-unnamed_net13	D1-1 U1-40 
-unnamed_net12	U5-13 CONN2-3 U1-9 
-unnamed_net11	U5-7 CONN2-4 U1-10 
-unnamed_net10	U5-12 CONN2-1 U1-11 
-unnamed_net9	U5-11 U1-30 
-unnamed_net8	R1-2 U1-4 
-unnamed_net7	R2-2 U1-3 
-unnamed_net6	C7-2 U1-6 
-Vee	Z1-2 R7-1 R12-2 U5-14 U5-6 U5-10 U5-16 U5-9 U5-8 U5-1 U5-4 C8-1 C9-1 C10-1 U6-4 CONN1-5 CONN1-6 CONN1-4 U4-1 U3-1 C2-1 C1-1 R4-1 R3-1 R3-2 C4-1 CONN2-6 C5-1 C6-1 C7-1 U1-5 U1-23 U1-35 U1-15 
-unnamed_net5	C3-2 U1-42 
-unnamed_net4	C5-2 U2-1 R5-1 U1-17 
-unnamed_net3	C6-2 U2-2 R5-2 U1-16 
-unnamed_net2	CONN2-5 R6-2 U1-13 
-unnamed_net1	C3-1 R4-2 U1-43 
-Vcc	C10-2 R8-2 U5-3 U5-2 U6-8 CONN1-1 C2-2 C1-2 CONN2-2 R6-1 U1-7 C4-2 U1-24 U1-44 U1-2 U1-14 U1-34 
+unnamed_net19	BAT-1 Cp1-2 Lp1-2 3.3V-2 
+unnamed_net18	Lp1-1 USB-1 
+unnamed_net17	La2-2 Ca1-2 
+unnamed_net16	Rn1-2 LED-2 
+unnamed_net15	USB-3 Uu1-2 Ru1-1 
+unnamed_net14	USB-2 Uu2-2 Ru2-1 
+unnamed_net13	LED-1 AVR-41 
+unnamed_net12	ISP-3 AVR-9 
+unnamed_net11	ISP-4 AVR-10 
+unnamed_net10	ISP-1 AVR-11 
+unnamed_net9	Ru1-2 AVR-4 
+unnamed_net8	Ru2-2 AVR-3 
+unnamed_net7	Cu1-2 AVR-6 
+Vee	Cm3-1 Cp2-1 Cp1-1 Rn1-1 BAT-2 ISP-6 3.3V-1 La3-1 USB-4 La1-1 USB-5 La1-2 Cm1-1 Cm2-1 Ca3-1 Ca1-1 Uu1-1 Uu2-1 Ca4-1 Cu1-1 AVR-5 AVR-23 AVR-35 AVR-15 
+unnamed_net6	Ca2-2 AVR-42 
+unnamed_net5	La4-2 Ca3-2 Ca4-2 AVR-24 AVR-44 
+unnamed_net4	Cm1-2 Um1-2 Rm1-2 AVR-17 
+unnamed_net3	Cm2-2 Um1-1 Rm1-1 AVR-16 
+unnamed_net2	Ri1-2 ISP-5 AVR-13 
+unnamed_net1	La3-2 Ca2-1 AVR-43 
+Vcc	Ri1-1 ISP-2 Cp2-2 3.3V-3 La4-1 La2-1 AVR-7 Cm3-2 AVR-2 AVR-14 AVR-34 
